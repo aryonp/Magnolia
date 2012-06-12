@@ -15,7 +15,7 @@ Its basic functionalities goes to;
 
 On its way to expand, Magnolia start its popularity as a base library for several system in different business process; Logistic, Credit Facility, Medical, and Goverment Management System.
 
-Developer can expand its functionality by writing a new library class or merge Magnolia with some plugins such as JQuery, Twitter Bootstrap, etc.
+Developer can expand its functionality by writing a new library class or merge Magnolia with some plugins such as JQuery, Twitter Bootstrap, PHPLot, etc.
 
 Hopefully, developers/users that want to share their knowledge and extending their creativity on the way of programming can starts from here ;-)
 
