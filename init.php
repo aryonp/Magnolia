@@ -9,26 +9,26 @@
 
 /* -- Define details here -- */
 
-define("COMP_NAME", "PT. SCHENKER PETROLOG UTAMA");
-define("COMP_NPWP", "01.356.884.5-058.000");
-define("COMP_ADDR", "WISMA RAHARJA LT. 5<br>JL.TB SIMATUPANG KAV. 1<br>CILANDAK TIMUR - PASAR MINGGU<br>JAKARTA SELATAN - 12560");
-define("COMP_PHONE", "+62 21 788 43 788");
-define("COMP_FAX", "+62 21 788 333 69");
-define("ADMIN", "muhammad.pratama@dbschenker.com");
+define("COMP_NAME", "PT ABC");
+define("COMP_NPWP", "");
+define("COMP_ADDR", "");
+define("COMP_PHONE", "");
+define("COMP_FAX", "");
+define("ADMIN", "");
 define("PRODUCT", "STORIX");
 define("VERSION", "2012");
 
 /* -- Define default settings here -- */
 
 define('SYS_CODE', 'the-avengers');
-define("DEFAULT_MAIL_DOMAIN", "@dbschenker.com");
+define("DEFAULT_MAIL_DOMAIN", "@domain-lo");
 define("DEFAULT_PASS", "bsd");
-define("URL_INTER", "http://valhalla.schenker.co.id/storix");
-define("URL_INTRA", "http://10.213.141.50/storix");
-define("COMP_URL", "http://www.schenker.co.id");
-define('DB_HOST', '10.213.141.24');
+define("URL_INTER", "http://domain.com/storix");
+define("URL_INTRA", "http://domain.com/storix");
+define("COMP_URL", "http://domain.com");
+define('DB_HOST', 'ip-database');
 define('DB_USER', 'storix');
-define('DB_PASS', 'storix-123');
+define('DB_PASS', 'password-db');
 define('DB_USE', 'storix');
 
 /* -- Start defining folder & etc here -- */

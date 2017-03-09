@@ -1,5 +1,5 @@
-<b>By signing this document, I signify that I have read, understood, and agree to abide and adhere to the guidelines of PT Schenker Petrolog Utama as documented in the IT PC Guidelines Policy.
+<b>By signing this document, I signify that I have read, understood, and agree to abide and adhere to the guidelines of <?=COMP_NAME?> as documented in the IT PC Guidelines Policy.
 If I fail to abide and adhere to the before mentioned guidelines, either willfully or otherwise, I will submit and accept the penalties and consequences of such actions.</b> 
 
 <i>
-Dengan menandatangani dokumen ini, saya menyatakan bahwa saya telah membaca, mengerti dan menyetujui untuk mentaati dan memenuhi petunjuk PT Schenker Petrolog Utama sesuai dengan yang tertuang di dalam kebijakan Pedoman PC Informasi Teknologi. Apabila saya gagal mentaati dan memenuhi petunjuk yang disebut sebelumnya, baik secara sengaja ataupun tidak sengaja, saya sanggup dan bersedia menerima sanksi atau akibat dari tindakan tersebut.</i>
+Dengan menandatangani dokumen ini, saya menyatakan bahwa saya telah membaca, mengerti dan menyetujui untuk mentaati dan memenuhi petunjuk <?=COMP_NAME?> sesuai dengan yang tertuang di dalam kebijakan Pedoman PC Informasi Teknologi. Apabila saya gagal mentaati dan memenuhi petunjuk yang disebut sebelumnya, baik secara sengaja ataupun tidak sengaja, saya sanggup dan bersedia menerima sanksi atau akibat dari tindakan tersebut.</i>
