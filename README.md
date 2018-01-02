@@ -30,8 +30,10 @@ Minimum requirements: LAMP or WAMP
 
 * **Aryo Pratama** - (https://github.com/aryonp)
 
-## License
+## Issues
+Please submit any bugs/problems found in this app through this link https://github.com/aryonp/Magnolia/issues
 
+## License
 Since my manager at that moment Mr. Nizar Badib was not agree when I purposed to make it official by letting the company to buy its patent instead he asked me to make it open source.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
