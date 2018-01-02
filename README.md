@@ -1,10 +1,10 @@
-<h2>Magnolia</h2>
+# Magnolia
 
-Magnolia is a PHP based web framework that I developed 5 years ago to help me finished my Thesis ;-)
+Magnolia is a PHP based web framework that I developed 11 years ago on 2007 to help me finished my Thesis in a company for the base research.
 
 At first it was only a library that used to develop an integrated web-based online IT inventory and request system that conforms ITILv2.
 
-Its basic functionalities goes to;
+## Functionalities :
 - User Request -> Manager Approval -> IT Admin
 - IT Request for Approval -> Director's Approval
 - Purchase Order
@@ -26,16 +26,12 @@ To start using Magnolia immediately, <br/>
 
 Minimum requirements: LAMP or WAMP 
 
+## Authors
 
-<h2>Authors</h2>
-Aryo N. Pratama
+* **Aryo Pratama** - (https://github.com/aryonp)
 
-http://twitter.com/aryonp<br/>
-http://github.com/aryonp
+## License
 
-<br/>
-<h2>Copyright and license</h2>
+Since my manager at that moment Mr. Nizar Badib was not agree when I purposed to make it official by letting the company to buy its patent instead he asked me to make it open source.
 
-Copyright 2012 Aryo N. Pratama
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
